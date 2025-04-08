@@ -1,6 +1,6 @@
 """
 File: PotholeFilling.py
-Name: 鍾念庭 TODO:
+Name: 鍾念庭
 --------------------------
 This program shows karel filling 3
 potholes. Students learn the concept of
@@ -53,7 +53,6 @@ def turn_right():
 def turn_around():
     for i in range(2):
         turn_left()
-
 
 
 

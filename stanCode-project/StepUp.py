@@ -1,6 +1,6 @@
 """
 File: StepUp.py
-Name: 鍾念庭 TODO:
+Name: 鍾念庭 
 ------------------------
 This file shows Karel picking up 
 the beeper at Street 1 Avenue 2,

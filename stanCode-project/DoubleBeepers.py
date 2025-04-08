@@ -2,7 +2,9 @@
 File: DoubleBeepers.py
 Name: 鍾念庭
 -------------------------------
-TODO:
+This program makes Karel double 
+the beepers and retuen to its starting 
+position.
 """
 
 from karel.stanfordkarel import *
@@ -17,7 +19,7 @@ def main():
         if on_beeper():
             double_beepers()
         move()
-
+        
     # Return to the initial position
     go_home()
 
@@ -29,7 +31,7 @@ def double_beepers():
         move_up()
         put_beeper()
         move_down()
-
+        
     # move to the row above
     move_up()
 
@@ -77,9 +79,6 @@ def go_home():
     while front_is_clear():
         move()
     turn_around()
-
-
-
 
 
 

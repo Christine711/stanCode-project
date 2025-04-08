@@ -1,8 +1,9 @@
 """
 File: Steeplechase.py
-Name: 鍾念庭 TODO:
+Name: 鍾念庭 
 ---------------------------------
-TODO:
+This program makes Karel cross hurdles 
+in a 12x12 world with a for loop 
 """
 
 from karel.stanfordkarel import *
@@ -69,6 +70,7 @@ def down():
 def turn_right():
     for i in range(3):
         turn_left()
+
 
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #

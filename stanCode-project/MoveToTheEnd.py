@@ -4,7 +4,7 @@ Name: 鍾念庭
 ------------------------
 This file shows how to use while loop
 to walk to the end of a certain row in
-karel world
+karel world.
 """
 
 from karel.stanfordkarel import *

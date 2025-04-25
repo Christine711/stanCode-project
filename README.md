@@ -1,6 +1,6 @@
 ## *stanCode-project*
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of Stanford CS106A course.
 
 ## Project Source Codes:
 * [StepUp](https://github.com/Christine711/stanCode-project/blob/main/stanCode-project/StepUp.py)
